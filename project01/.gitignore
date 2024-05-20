@@ -1,0 +1,7 @@
+*.properties
+.classpath
+.project
+.settings/
+*.class
+target/
+DATABASE/
